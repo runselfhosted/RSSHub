@@ -80,7 +80,7 @@
         </p>
 
         <h1>Welcome to
-            <span style="color: #F5712C;">RSSHub</span>!</h1>
+            <span style="color: #F5712C;">my RSSHub</span>!!!!</h1>
 
         <p>If you see this page, the RSSHub{{ if hash }} ({{ hash }}){{ /if }} is successfully installed and working.</p>
 
